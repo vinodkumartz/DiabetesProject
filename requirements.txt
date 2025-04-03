@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+xgboost
+#tqdm
+#mlflow
+#git
+#pydot
+#graphviz
+#shap
+#rfpimp

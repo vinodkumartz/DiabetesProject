@@ -53,7 +53,7 @@ Hospital readmission of diabetic patients is a critical healthcare concern. Redu
 
 ## 🗂 Project Structure
 
-```bash
+
 DiabetesProject/
 ├── notebooks/
 │   ├── EDA.ipynb
@@ -88,6 +88,7 @@ DiabetesProject/
 - **Deployment:** GitHub, Google Colab, (optional: Hugging Face / Streamlit)
 
 ---
+
 
 ## ⚙️ Implementation Details
 

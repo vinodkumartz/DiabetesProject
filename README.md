@@ -53,7 +53,7 @@ Hospital readmission of diabetic patients is a critical healthcare concern. Redu
 
 ## 🗂 Project Structure
 
-
+```bash
 DiabetesProject/
 ├── notebooks/
 │   ├── EDA.ipynb
@@ -76,7 +76,7 @@ DiabetesProject/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 
 ## 🧰 Tech Stack
 
@@ -157,14 +157,14 @@ The file `Random_Forest.pkl` exceeds GitHub's 100MB limit and is:
 cd webapp/flask-api
 pip install -r requirements.txt
 python app.py
-
+```
 ### 🔹 Frontend (React + Vite)
 
 ```bash
 cd webapp/vite-react-ui
 npm install
 npm run dev
-
+```
 ---
 
 ## 🚧 Future Work
